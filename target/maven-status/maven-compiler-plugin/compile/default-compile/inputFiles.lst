@@ -1,0 +1,12 @@
+/home/developer/Documents/auth/src/main/java/authentication/server/auth/AuthApplication.java
+/home/developer/Documents/auth/src/main/java/authentication/server/auth/AuthorizationServerConfig.java
+/home/developer/Documents/auth/src/main/java/authentication/server/auth/CorsConfigurator.java
+/home/developer/Documents/auth/src/main/java/authentication/server/auth/controllers/MainController.java
+/home/developer/Documents/auth/src/main/java/authentication/server/auth/entity/Employee.java
+/home/developer/Documents/auth/src/main/java/authentication/server/auth/entity/Role.java
+/home/developer/Documents/auth/src/main/java/authentication/server/auth/exceptions/DeleteRecordException.java
+/home/developer/Documents/auth/src/main/java/authentication/server/auth/exceptions/GlobalExceptionHandler.java
+/home/developer/Documents/auth/src/main/java/authentication/server/auth/exceptions/ResourceNotFoundException.java
+/home/developer/Documents/auth/src/main/java/authentication/server/auth/repositories/EmployeeRepository.java
+/home/developer/Documents/auth/src/main/java/authentication/server/auth/services/CustomOidcUserService.java
+/home/developer/Documents/auth/src/main/java/authentication/server/auth/services/EmployeeService.java
